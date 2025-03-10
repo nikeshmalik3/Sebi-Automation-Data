@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -34,6 +34,7 @@
             flex-wrap: wrap;
             gap: 20px;
             justify-content: center;
+            margin-bottom: 30px;
         }
         .report-card {
             border: 1px solid #ddd;
@@ -43,6 +44,7 @@
             background-color: #f9f9f9;
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
         }
         .report-card:hover {
             transform: translateY(-5px);
@@ -96,6 +98,96 @@
             font-size: 18px;
             margin-top: 10px;
         }
+        
+        /* Tab styles */
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            background-color: #f1f1f1;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            border-radius: 5px 5px 0 0;
+            margin-right: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .tab.active {
+            background-color: #154063;
+            color: white;
+            border-color: #154063;
+        }
+        .tab-content {
+            display: none;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-top: none;
+            background-color: white;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        
+        /* Embedded report styles */
+        .embedded-report {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .embedded-report h1 {
+            color: #154063;
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+        .embedded-report h3 {
+            color: #154063;
+            font-size: 18px;
+            margin: 15px 0;
+        }
+        .embedded-report .org-strong {
+            text-align: left;
+            margin: 15px 0;
+        }
+        .embedded-report .portlet {
+            margin: 20px 0;
+            padding: 15px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .embedded-report table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background: #fff;
+        }
+        .embedded-report th, .embedded-report td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .embedded-report th {
+            background-color: #f5f6fa;
+            font-weight: bold;
+            text-align: center;
+        }
+        .embedded-report td {
+            text-align: right;
+        }
+        .embedded-report td:first-child {
+            text-align: left;
+        }
+        .embedded-report tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .embedded-report .purple {
+            border-left: 4px solid #6f42c1;
+        }
     </style>
 </head>
 <body>
@@ -110,25 +202,222 @@
         </div>
 
         <h2>Available Reports</h2>
-        <div class="report-cards">
-            <div class="report-card">
-                <div class="report-title">HDFC ASSET MANAGEMENT COMPANY LIMITED</div>
-                <div class="report-description">
-                    Complete portfolio manager report with all extracted data from SEBI for January 2025.
-                    Includes general information, client breakup, AUM breakup, and more.
+        <div class="tabs">
+            <div class="tab active" onclick="openTab(event, 'hdfc')">HDFC ASSET MANAGEMENT</div>
+            <div class="tab" onclick="openTab(event, 'piramal')">PIRAMAL FUND MANAGEMENT</div>
+        </div>
+        
+        <div id="hdfc" class="tab-content active">
+            <div class="embedded-report">
+                <h1>SEBI Portfolio Manager Monthly Report - HDFC</h1>
+                
+                <div class="org-strong">
+                    <h3><strong>General Information</strong></h3>
                 </div>
-                <div class="report-date">Generated: March 10, 2024</div>
-                <a href="HDFC_ASSET_MANAGEMENT_COMPANY_LIMITED_sebi_data.html" class="view-button" target="_blank">View HDFC Report</a>
+                <div class="portlet purple">
+                    <div class="org-table-1">
+                        <table class="table table-striped table-bordered table-hover background statistics-table">
+                            <tbody>
+                                <tr>
+                                    <th>Name of the Portfolio Manager</th>
+                                    <td>HDFC ASSET MANAGEMENT COMPANY LIMITED</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration Number</th>
+                                    <td>INP000000506</td>
+                                </tr>
+                                <tr>
+                                    <th>Date of Registration</th>
+                                    <td>2024-02-29</td>
+                                </tr>
+                                <tr>
+                                    <th>Registered Address of the Portfolio Manager</th>
+                                    <td>HDFC HOUSE, 2ND FLOOR,H T PAREKH MARG, 165 166 BACKBAY RECLAMATION, CHURCHGATE,MUMBAI,,MAHARASHTRA,INDIA,400020</td>
+                                </tr>
+                                <tr>
+                                    <th>Name of Principal Officer</th>
+                                    <td>Mr.Navneet Munot</td>
+                                </tr>
+                                <tr>
+                                    <th>Email ID of the Principal Officer</th>
+                                    <td>navneet@hdfcfund.com</td>
+                                </tr>
+                                <tr>
+                                    <th>Contact Number (Direct) of the Principal Officer</th>
+                                    <td>91-0-9820289025</td>
+                                </tr>
+                                <tr>
+                                    <th>Name of Compliance Officer</th>
+                                    <td>Mrs.Supriya Sapre</td>
+                                </tr>
+                                <tr>
+                                    <th>Email ID of the Compliance Officer</th>
+                                    <td>supriyas@hdfcfund.com</td>
+                                </tr>
+                                <tr>
+                                    <th>No. of clients as on last day of the month</th>
+                                    <td>110</td>
+                                </tr>
+                                <tr>
+                                    <th>Total Assets under Management (AUM) as on last day of the month (Amount in INR crores)</th>
+                                    <td>3710.74000</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div class="org-strong">
+                    <h3><strong>Break-up of clients of the Portfolio Manager</strong></h3>
+                </div>
+                <div class="portlet purple">
+                    <div class="org-table-1">
+                        <table class="table table-striped table-bordered table-hover background statistics-table">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Particulars</th>
+                                    <th colspan="3">Domestic Clients</th>
+                                    <th colspan="3">Foreign Clients</th>
+                                    <th>Total</th>
+                                </tr>
+                                <tr>
+                                    <th>PF/EPFO</th>
+                                    <th>Corporates</th>
+                                    <th>Non-Corporates</th>
+                                    <th>Non-Residents</th>
+                                    <th>FPI</th>
+                                    <th>Others</th>
+                                    <th>&nbsp;</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>No. of unique Clients as on last day of the month</strong></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>110</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Assets under Management (AUM) as on last day of the month (Amount in INR crores)</strong></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>3710.74</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
-            
-            <div class="report-card">
-                <div class="report-title">PIRAMAL FUND MANAGEMENT PRIVATE LIMITED</div>
-                <div class="report-description">
-                    Complete portfolio manager report with all extracted data from SEBI for January 2025.
-                    Includes general information, client breakup, AUM breakup, and more.
+        </div>
+        
+        <div id="piramal" class="tab-content">
+            <div class="embedded-report">
+                <h1>SEBI Portfolio Manager Monthly Report - Piramal</h1>
+                
+                <div class="org-strong">
+                    <h3><strong>General Information</strong></h3>
                 </div>
-                <div class="report-date">Generated: March 10, 2024</div>
-                <a href="PIRAMAL_FUND_MANAGEMENT_PRIVATE_LIMITED_sebi_data.html" class="view-button" target="_blank">View PIRAMAL Report</a>
+                <div class="portlet purple">
+                    <div class="org-table-1">
+                        <table class="table table-striped table-bordered table-hover background statistics-table">
+                            <tbody>
+                                <tr>
+                                    <th>Name of the Portfolio Manager</th>
+                                    <td>Piramal Fund Management Private Limited</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration Number</th>
+                                    <td>INP000004136</td>
+                                </tr>
+                                <tr>
+                                    <th>Date of Registration</th>
+                                    <td>2014-09-15</td>
+                                </tr>
+                                <tr>
+                                    <th>Registered Address of the Portfolio Manager</th>
+                                    <td>Ground Floor Piramal Tower A ,Peninsula Corporate Park, Lower Parel,MUMBAI,,MAHARASHTRA,INDIA,400013</td>
+                                </tr>
+                                <tr>
+                                    <th>Name of Principal Officer</th>
+                                    <td>Vaibhav Rekhi</td>
+                                </tr>
+                                <tr>
+                                    <th>Contact Number (Direct) of the Principal Officer</th>
+                                    <td>--022-61513405</td>
+                                </tr>
+                                <tr>
+                                    <th>Name of Compliance Officer</th>
+                                    <td>Sachin Deodhar</td>
+                                </tr>
+                                <tr>
+                                    <th>No. of clients as on last day of the month</th>
+                                    <td>0</td>
+                                </tr>
+                                <tr>
+                                    <th>Total Assets under Management (AUM) as on last day of the month (Amount in INR crores)</th>
+                                    <td>0.00000</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div class="org-strong">
+                    <h3><strong>Break-up of clients of the Portfolio Manager</strong></h3>
+                </div>
+                <div class="portlet purple">
+                    <div class="org-table-1">
+                        <table class="table table-striped table-bordered table-hover background statistics-table">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Particulars</th>
+                                    <th colspan="3">Domestic Clients</th>
+                                    <th colspan="3">Foreign Clients</th>
+                                    <th>Total</th>
+                                </tr>
+                                <tr>
+                                    <th>PF/EPFO</th>
+                                    <th>Corporates</th>
+                                    <th>Non-Corporates</th>
+                                    <th>Non-Residents</th>
+                                    <th>FPI</th>
+                                    <th>Others</th>
+                                    <th>&nbsp;</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>No. of unique Clients as on last day of the month</strong></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>0</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Assets under Management (AUM) as on last day of the month (Amount in INR crores)</strong></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>0</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -141,5 +430,25 @@
             The automation script can extract data for any portfolio manager listed on the SEBI website, for any available month and year.
         </p>
     </div>
+
+    <script>
+        function openTab(evt, tabName) {
+            // Hide all tab content
+            var tabContents = document.getElementsByClassName("tab-content");
+            for (var i = 0; i < tabContents.length; i++) {
+                tabContents[i].classList.remove("active");
+            }
+            
+            // Remove active class from all tabs
+            var tabs = document.getElementsByClassName("tab");
+            for (var i = 0; i < tabs.length; i++) {
+                tabs[i].classList.remove("active");
+            }
+            
+            // Show the selected tab content and mark the button as active
+            document.getElementById(tabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+    </script>
 </body>
 </html>
