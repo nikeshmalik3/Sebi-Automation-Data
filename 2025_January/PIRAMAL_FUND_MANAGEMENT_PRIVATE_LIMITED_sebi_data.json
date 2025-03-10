@@ -1,0 +1,223 @@
+{
+    "general_info": {
+        "Name of the Portfolio Manager": "Piramal Fund Management Private Limited",
+        "Registration Number": "INP000004136",
+        "Date of Registration": "2014-09-15",
+        "Registered Address of the Portfolio Manager": "Ground Floor Piramal Tower A ,Peninsula Corporate Park, Lower Parel,MUMBAI,,MAHARASHTRA,INDIA,400013",
+        "Name of Principal Officer": "Vaibhav Rekhi",
+        "Contact Number (Direct) of the Principal Officer": "--022-61513405",
+        "Name of Compliance Officer": "Sachin Deodhar",
+        "No. of clients as on last day of the month": "0",
+        "Total Assets under Management (AUM) as on last day of the month (Amount in INR crores)": "0.00000"
+    },
+    "client_breakup": {
+        "No. of unique Clients as on last day of the month": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        },
+        "Assets under Management (AUM) as on last day of the month  (Amount in INR crores)": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        }
+    },
+    "aum_breakup": {
+        "Discretionary": {
+            "Type of PMS Service": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Equity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Commodity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Others": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Mutual Funds": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Others": "0"
+        },
+        "Non-Discretionary": {
+            "Type of PMS Service": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Equity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Commodity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Others": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Mutual Funds": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Others": "0"
+        }
+    },
+    "service_types": {
+        "Discretionary Service": "YES",
+        "Non-Discretionary Service": "NO",
+        "Advisory Service": "YES",
+        "Co-investment Service": "NO"
+    },
+    "discretionary_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Non-Residents": "0",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "0"
+            },
+            "Assets under Management (AUM) as on last day of the month (Amount in INR crores)": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Non-Residents": "0",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "0"
+            }
+        },
+        "aum_breakup": {},
+        "funds_flow": {
+            "Domestic Real Estate Strategy 1- Ashiana": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0"
+            },
+            "Total": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0"
+            }
+        },
+        "transaction_data": {},
+        "performance_data": {
+            "Domestic Real Estate Strategy 1- Ashiana": {
+                "Piramal Fund Management Private LimitedINP000004136": "0",
+                "TWRR Returns (%)": "0"
+            },
+            "Benchmark: 0": {
+                "Piramal Fund Management Private LimitedINP000004136": "",
+                "TWRR Returns (%)": "0"
+            }
+        }
+    },
+    "non_discretionary_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Non-Residents": "0",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "0"
+            },
+            "Assets under Management (AUM) as on last day of the month (Amount in INR crores)": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Non-Residents": "0",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "0"
+            }
+        },
+        "aum_breakup": {},
+        "funds_flow": {
+            "Inflow during the month(in INR crores)": {
+                "Funds Inflow/Outflow Druing the Month": "Outflow during the month(in INR crores)",
+                "Funds Inflow/Outflow Druing the FY": "Net Inflow (+ve)/ Outflow (-ve) during the month(in INR crores)"
+            },
+            "0": {
+                "Funds Inflow/Outflow Druing the Month": "0",
+                "Funds Inflow/Outflow Druing the FY": "0"
+            }
+        },
+        "transaction_data": {},
+        "performance_data": {}
+    },
+    "advisory_services": {
+        "No. of Clients as on last day of the month": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        },
+        "Value of the Assets for which Advisory Services are being given (Amount in INR crores)": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        }
+    },
+    "co_investment_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Corporates": "0",
+                "Foreign Clients_Non Residents": "0",
+                "Foreign Clients_Others": "0"
+            },
+            "Value of the Assets for which Co-investment Services are being given (Amount in INR crores)": {
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Corporates": "0",
+                "Foreign Clients_Non Residents": "0",
+                "Foreign Clients_Others": "0"
+            }
+        },
+        "aum_breakup": {}
+    },
+    "complaints": {
+        "Domestic - PF/ EPFO": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Domestic Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Domestic Non-Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - NR": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - FPI": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - Others": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Total": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        }
+    }
+}
