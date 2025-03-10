@@ -1,0 +1,300 @@
+{
+    "general_info": {
+        "Name of the Portfolio Manager": "HDFC ASSET MANAGEMENT COMPANY LIMITED",
+        "Registration Number": "INP000000506",
+        "Date of Registration": "2024-02-29",
+        "Registered Address of the Portfolio Manager": "HDFC HOUSE, 2ND FLOOR,H T PAREKH MARG, 165 166 BACKBAY RECLAMATION, CHURCHGATE,MUMBAI,,MAHARASHTRA,INDIA,400020",
+        "Name of Principal Officer": "Mr.Navneet  Munot",
+        "Email ID of the Principal Officer": "navneet@hdfcfund.com",
+        "Contact Number (Direct) of the Principal Officer": "91-0-9820289025",
+        "Name of Compliance Officer": "Mrs.Supriya  Sapre",
+        "Email ID of the Compliance Officer": "supriyas@hdfcfund.com",
+        "No. of clients as on last day of the month": "110",
+        "Total Assets under Management (AUM) as on last day of the month (Amount in INR crores)": "3710.74000"
+    },
+    "client_breakup": {
+        "No. of unique Clients as on last day of the month": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "19",
+            "Domestic Clients_Non-Corporates": "83",
+            "Foreign Clients_Non-Residents": "8",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "110"
+        },
+        "Assets under Management (AUM) as on last day of the month  (Amount in INR crores)": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "2659.62",
+            "Domestic Clients_Non-Corporates": "1034.44",
+            "Foreign Clients_Non-Residents": "16.68",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "3710.74"
+        }
+    },
+    "aum_breakup": {
+        "Discretionary": {
+            "Type of PMS Service": "200.39",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Unlisted": "0.34",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Equity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Commodity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Others": "541.66",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Mutual Funds": "5.48",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Others": "747.87"
+        },
+        "Non-Discretionary": {
+            "Type of PMS Service": "11.61",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Equity_Unlisted": "906.55",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Listed": "31.52",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Plain Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Listed": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Structured Debt_Unlisted": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Equity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Commodity": "0",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Derivatives_Others": "2002.92",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Mutual Funds": "10.27",
+            "Assets under Management as on last day of the month (Amount in INR crores)_Others": "2962.87"
+        }
+    },
+    "service_types": {
+        "Discretionary Service": "YES",
+        "Non-Discretionary Service": "YES",
+        "Advisory Service": "YES",
+        "Co-investment Service": "YES"
+    },
+    "discretionary_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "10",
+                "Domestic Clients_Non-Corporates": "71",
+                "Foreign Clients_Non-Residents": "7",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "88"
+            },
+            "Assets under Management (AUM) as on last day of the month (Amount in INR crores)": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "392.03",
+                "Domestic Clients_Non-Corporates": "343.87",
+                "Foreign Clients_Non-Residents": "11.97",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "747.87"
+            }
+        },
+        "aum_breakup": {},
+        "funds_flow": {
+            "All Cap": {
+                "Investment Approach": "0.23",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0.01",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0.22"
+            },
+            "Bespoke": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0.01",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "-0.01"
+            },
+            "Diversified Portfolio - Equity": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "19.24",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "-19.24"
+            },
+            "Diversified Portfolio - Hybrid": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0"
+            },
+            "Enhanced Portfolio 1": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0"
+            },
+            "HDFC AMC Liquid Portfolio": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0.28",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "-0.28"
+            },
+            "HDFC AMC MF Select Portfolio  Equity (Formerly Portfolio of MF Schemes/ETFs)": {
+                "Investment Approach": "0",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "0"
+            },
+            "India Ascent Portfolio": {
+                "Investment Approach": "0.05",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "0.5",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "-0.45"
+            },
+            "Total": {
+                "Investment Approach": "0.28",
+                "Funds Inflow/Outflow in the Approach Druing the Month": "20.05",
+                "Funds Inflow/Outflow in the Approach Druing the FY": "-19.77"
+            }
+        },
+        "transaction_data": {},
+        "performance_data": {
+            "All Cap": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "38.64",
+                "TWRR Returns (%)": "-6.32"
+            },
+            "Benchmark: BSE 500 Total Return Index": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "",
+                "TWRR Returns (%)": "-3.43"
+            },
+            "Bespoke": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "85.48",
+                "TWRR Returns (%)": "-0.91"
+            },
+            "Benchmark: Nifty 50 Total Return Index": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "",
+                "TWRR Returns (%)": "-0.45"
+            },
+            "Diversified Portfolio - Equity": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "554.01",
+                "TWRR Returns (%)": "-3.35"
+            },
+            "Enhanced Portfolio 1": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "8.25",
+                "TWRR Returns (%)": "-4.62"
+            },
+            "HDFC AMC MF Select Portfolio  Equity (Formerly Portfolio of MF Schemes/ETFs)": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "19.72",
+                "TWRR Returns (%)": "-2.39"
+            },
+            "India Ascent Portfolio": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "4.64",
+                "TWRR Returns (%)": "-7.21"
+            },
+            "Diversified Portfolio - Hybrid": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "36.36",
+                "TWRR Returns (%)": "-0.16"
+            },
+            "Benchmark: Nifty 50 Hybrid Composite": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "",
+                "TWRR Returns (%)": "0.13"
+            },
+            "HDFC AMC Liquid Portfolio": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "0.76",
+                "TWRR Returns (%)": "0.59"
+            },
+            "Benchmark: Crisil Composite Bond Fund Index": {
+                "HDFC ASSET MANAGEMENT COMPANY LIMITEDINP000000506": "",
+                "TWRR Returns (%)": "0.7"
+            }
+        }
+    },
+    "non_discretionary_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "9",
+                "Domestic Clients_Non-Corporates": "12",
+                "Foreign Clients_Non-Residents": "1",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "22"
+            },
+            "Assets under Management (AUM) as on last day of the month (Amount in INR crores)": {
+                "Domestic Clients_PF/EPFO": "0",
+                "Domestic Clients_Corporates": "2267.59",
+                "Domestic Clients_Non-Corporates": "690.57",
+                "Foreign Clients_Non-Residents": "4.71",
+                "Foreign Clients_FPI": "0",
+                "Foreign Clients_Others": "0",
+                "Total": "2962.87"
+            }
+        },
+        "aum_breakup": {},
+        "funds_flow": {
+            "Inflow during the month(in INR crores)": {
+                "Funds Inflow/Outflow Druing the Month": "Outflow during the month(in INR crores)",
+                "Funds Inflow/Outflow Druing the FY": "Net Inflow (+ve)/ Outflow (-ve) during the month(in INR crores)"
+            },
+            "59.22": {
+                "Funds Inflow/Outflow Druing the Month": "11",
+                "Funds Inflow/Outflow Druing the FY": "48.21"
+            }
+        },
+        "transaction_data": {},
+        "performance_data": {}
+    },
+    "advisory_services": {
+        "No. of Clients as on last day of the month": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        },
+        "Value of the Assets for which Advisory Services are being given (Amount in INR crores)": {
+            "Domestic Clients_PF/EPFO": "0",
+            "Domestic Clients_Corporates": "0",
+            "Domestic Clients_Non-Corporates": "0",
+            "Foreign Clients_Non-Residents": "0",
+            "Foreign Clients_FPI": "0",
+            "Foreign Clients_Others": "0",
+            "Total": "0"
+        }
+    },
+    "co_investment_services": {
+        "client_breakup": {
+            "No. of unique Clients as on last day of the month": {
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Corporates": "0",
+                "Foreign Clients_Non Residents": "0",
+                "Foreign Clients_Others": "0"
+            },
+            "Value of the Assets for which Co-investment Services are being given (Amount in INR crores)": {
+                "Domestic Clients_Corporates": "0",
+                "Domestic Clients_Non-Corporates": "0",
+                "Foreign Clients_Corporates": "0",
+                "Foreign Clients_Non Residents": "0",
+                "Foreign Clients_Others": "0"
+            }
+        },
+        "aum_breakup": {}
+    },
+    "complaints": {
+        "Domestic - PF/ EPFO": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Domestic Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Domestic Non-Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - NR": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - FPI": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - Corporates": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Foreign - Others": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        },
+        "Total": {
+            "Type of Client": "0",
+            "Total No. of complaints": "0"
+        }
+    }
+}
